@@ -1,0 +1,8 @@
+{
+    "name": "sakura-beauty/app",
+    "description": "Sakura Beauty Consultant Application",
+    "type": "project",
+    "require": {
+        "php": ">=7.4"
+    }
+}

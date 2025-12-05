@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Sakura Beauty Consultant",
+  "description": "A Japanese-style beauty consultant application powered by Gemini. Analyze skin conditions and receive personalized health and beauty advice enriched by a custom knowledge base.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
